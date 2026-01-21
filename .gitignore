@@ -1,0 +1,15 @@
+/dist
+/build
+*.exe
+*.dll
+*.so
+*.dylib
+*.pyc
+__pycache__/
+.env
+.vscode/
+.idea/
+.DS_Store
+*.spec
+*.zip
+config.ini
